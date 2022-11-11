@@ -2,7 +2,7 @@
  The program that organize the files efficiently and easily :D
 
 ## 개발 환경
-- 개발 언어 : python 3.6.0
+- 개발 언어 : python 3.6.x
 - GUI 모듈 : pyqt5 
 - UI 디자인 : Qt designer, Qss
 - 코드 관리, 협업 : github
